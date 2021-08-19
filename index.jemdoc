@@ -21,7 +21,7 @@ E-mail: /chenzhang199705@163.com (prior), zcmianhuatang@gmail.com \n
 {{<a id="news" name="news" class="anchor"></a>}}
 
 \[2019.04\]~~One paper is accepted by /*中国农机化学报*/. \[[https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=GLJH201904013&v=0IRR2JQ23ZEIkof2L67vGekkF%25mmd2FFwz9mgsio9MbLTw%25mmd2B6voVlaLBQpxDGYBfE9qpFa link]\] \n
-#\[2020.12\]~~One paper is accepted by /*IEEE TKDE*/. \[[https://ieeexplore.ieee.org/document/9298842 link]\] \n
+\[2021.07\]~~One paper is accepted by /*ACM MM*/. \[[https://doi.org/10.1145/3474085.3475548 link]\] \n
 #\[2020.10\]~~One paper is accepted by /*Sensors*/. \[[https://www.mdpi.com/1424-8220/20/20/5755 link]\] \n
 #\[2020.10\]~~One paper is accepted by /*Journal of Frontiers of Computer Science and Technology*/. \[[http://fcst.ceaj.org/CN/abstract/abstract2429.shtml link]\] \n
 
@@ -47,6 +47,9 @@ I work in the field of machine learning and data mining. Currently, I focus on t
 
 Journal:
 . 霍迎秋, *张晨*, 李宇豪, 智文涛, 张炯, 刘景玲. "高光谱图像结合机器学习方法无损检测猕猴桃." /*中国农机化学报*/, (2019). \[[https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=GLJH201904013&v=0IRR2JQ23ZEIkof2L67vGekkF%25mmd2FFwz9mgsio9MbLTw%25mmd2B6voVlaLBQpxDGYBfE9qpFa Link]\]~\
+. *Zhang, Chen*, Siwei Wang, Jiyuan Liu, Sihang Zhou, Pei Zhang, Xinwang Liu, En Zhu and Changwang Zhang. "Multi-view Clustering via Deep Matrix Factorization and Partition Alignment." /*ACM MM/, (2021). \[[https://doi.org/10.1145/3474085.3475548 Link]\]
+
+#Chen Zhang, Siwei Wang, Jiyuan Liu, Sihang Zhou, Pei Zhang, Xinwang Liu, En Zhu, Changwang Zhang：Multi-view Clustering via Deep Matrix Factorization and Partition Alignment. ACM MM 2021. (CCF Rank A, Accepted in July. 4. 2021)
 
 # . \[*TNNLS'01*\]~~*Jiyuan Liu*, Xinwang Liu\*, Yuexiang Yang, Xifeng Guo, Marius Kloft, Liangzhong He: {{<u>Multi-view Subspace Clustering via Co-training Robust Data Representation</u>}}. IEEE Transactions on Neural Networks and Learning Systems, TNNLS. (Accepted Mar. 2021) \[[pubs/CoMSC_TNNLS.pdf PDF]\] \[[pubs/CoMSC_appendix.pdf Appendix]\] \[[https://github.com/liujiyuan13/CoMSC-code_release Code]\] \[[bibs/CoMSC_TNNLS.bib Bib]\]
 #. Sun Mengjing, Wang Siwei, *Zhang Pei*, Liu Xinwang, Guo Xifeng, Sihang Zhou, and En
